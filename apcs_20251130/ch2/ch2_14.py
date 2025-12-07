@@ -1,0 +1,11 @@
+print("A","B","C")
+print("A","B","C",sep="#")
+print("A","B","C",sep="")
+
+print("X")
+print("Y")
+print("Z")
+print("==============")
+print("X",end="\n")
+print("Y",end="#")
+print("Z")
