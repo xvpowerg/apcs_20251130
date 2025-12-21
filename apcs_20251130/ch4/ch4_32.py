@@ -1,0 +1,5 @@
+msg = input()
+myList = msg.split()
+mapObj = map(int,myList)
+dataList = list(mapObj)
+print(dataList)
